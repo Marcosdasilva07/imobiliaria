@@ -1,0 +1,209 @@
+#menu{
+    width: 800px; /* largura da div login*/
+   /* height: 50px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 220px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+
+#topo{
+  
+    width: 800px; /* largura da div login*/
+    height: 200px; /* altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 20px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+
+#pesquisa{
+  
+    width: 170px;  /*largura da div login*/
+    height: 300px; /* altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 270px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+
+
+
+#conteudo{
+    
+    width: 590px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 66%; /* posição da div*/
+    margin-left: -400px;
+    top: 270px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+#conteudoLogin{
+    
+    
+    width: 590px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 59%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 270px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+#conteudoLogin2{
+    
+    width: 590px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 59%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 700px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+
+#rodape{
+    width: 800px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top:700; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+#rodape{
+    width: 800; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 700; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+#rodapeLogin{
+    width: 800px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 630px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+#rodapeContato{
+    width: 800px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 880px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+
+#clientesCadastrados{
+    
+    width: 800px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 290px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    text-align: center;
+}
+
+#perfisCadastrados{
+    
+    width: 200px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -100px;
+    top: 290px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    text-align: center;
+}
+p{
+    font-size: 12;
+    
+}
+#visualizar{
+    
+    width: 590px; /* largura da div login*/
+    /* height: 200px;  altura da div login*/
+    position: absolute; 
+    left: 60%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 290px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+}
+rodape{
+    font-size: medium;
+    
+}
+#conteudoVenda{
+    
+    width: 590px; /* largura da div login*/
+     height: 400px; /* altura da div login*/
+    position: absolute; 
+    left: 68%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 270px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    overflow: auto;
+}
+#conteudoVenda1{
+    
+    width: 588px; /* largura da div login*/
+   // height: 600px; /* altura da div login*/
+    position: absolute; 
+    left: 66.5%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 15px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+
+#conteudoDetalhes{
+    
+    width: 800px; /* largura da div login*/
+     height: 400px; /* altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 270px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    overflow: auto;
+}
+#conteudoDetalhes1{
+    
+    width: 800px; /* largura da div login*/
+   // height: 600px; /* altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 15px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+#login{
+    
+    text-align: right;
+     width: 800px; /* largura da div login*/
+    height: 50px; /* altura da div login*/
+    position: absolute; 
+    left: 50%; /* posição da div*/ 
+    margin-left: -400px;
+    top: 263px; /* posição da div*/
+    border: 0px solid #000; /* borda da div*/
+    
+}
+bv{
+    color: red;
+}
+
