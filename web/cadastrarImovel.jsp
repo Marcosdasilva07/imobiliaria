@@ -120,7 +120,21 @@
                             </div>
                             <div class="large-8 columns">
                                 <label>Tipo de Imóvel:
-                                    <input type="text" placeholder="Digite o Tipo de Imóvel" name="tipoImovel"/>
+                                    <select name="tipoImovel">
+                                        <option value="" >Selecione</option>
+                                        <option value="%">Todas</option>
+                                        <option value="apartamento">Apartamento</option>
+                                        <option value="casa">Casa</option>
+                                        <option value="chacara">Chácara</option>
+                                        <option value="condominio">Condominio</option>
+                                        <option value="cobertura">Cobertura</option>
+                                        <option value="kitnet">Kitnet</option>
+                                        <option value="loja">Loja</option>
+                                        <option value="salao">Salão</option>                                
+                                        <option value="sitio">Sítio</option>
+                                        <option value="sobrado">Sobrado</option>
+                                        <option value="terreno">Terreno</option>
+                                    </select>
                                 </label>
                             </div>
                         </div>
